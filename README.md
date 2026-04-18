@@ -26,8 +26,9 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=8aa5c0&icon_color=2a9d5c&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4teee&layout=compact&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=8aa5c0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=4a7a9b&icon_color=2a9d5c&hide=stars&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4teee&layout=compact&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=4a7a9b&langs_count=5)
 
 </div>
 

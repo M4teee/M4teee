@@ -3,7 +3,7 @@
 
 # Mateo Rivas Aramburu
 
-`Computer Engineering` · `UNLP` · `La Plata, AR`
+`Computer Engineering` · `UNLP` · `Buenos Aires, AR`
 
 </div>
 
@@ -11,9 +11,8 @@
 
 ### `> about`
 
-3er año de Ingeniería en Computación.  
+3er año de **Ingeniería en Computación**.  
 Foco en software eficiente y escalable — lógica algorítmica, estructuras de datos, optimización de procesos.  
-Explorando el camino hacia **DevSecOps**.
 
 ---
 

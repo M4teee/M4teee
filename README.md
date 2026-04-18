@@ -41,14 +41,6 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> projects`
 
-**[pagina-educativa](https://github.com/M4teee/Generacion-T)**
-![WEB](https://img.shields.io/badge/WEB-2a9d5c?style=flat-square)
-`HTML` `CSS` `JS`
-Página educativa — proyecto final curso de programación básica.
-
-**[plan-unlp](https://github.com/M4teee/Plan-de-Estudios-Interactivo)**
-![TOOL](https://img.shields.io/badge/TOOL-1a6a8a?style=flat-square)
-`HTML` `CSS` `JS`
-Plan de estudios interactivo · Ing. en Computación UNLP.
+![projects](projects.svg)
 
 ---

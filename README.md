@@ -32,3 +32,18 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 </div>
 
 ---
+
+### `> currently learning`
+
+`TryHackMe` `Linux (Kali)` `Redes` `Docker` `CI/CD`
+
+---
+
+### `> projects`
+
+| | repo | descripción | stack |
+|--|------|-------------|-------|
+| ![web](https://img.shields.io/badge/WEB-2a9d5c?style=flat-square&logoColor=white) | [pagina-educativa](https://github.com/M4teee/Generacion-T) | Página educativa — proyecto final curso de programación | `HTML` `CSS` `JS` |
+| ![tool](https://img.shields.io/badge/TOOL-1a6a8a?style=flat-square&logoColor=white) | [plan-unlp](https://github.com/M4teee/Plan-de-Estudios-Interactivo) | Plan de estudios interactivo · Ing. en Computación UNLP | `HTML` `CSS` `JS` |
+
+---

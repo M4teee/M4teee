@@ -18,7 +18,7 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> stack`
 
-`C` `Java` `JavaScript` `HTML5` `CSS3` `Bash` `Git` `Markdown`
+<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/stack.svg" width="680"/>
 
 ---
 
@@ -36,7 +36,7 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> currently learning`
 
-`TryHackMe` `Linux (Kali)` `Redes` `Docker` `CI/CD`
+<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/learning.svg" width="680"/>
 
 ---
 

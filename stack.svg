@@ -1,0 +1,115 @@
+<svg viewBox="0 0 680 138" xmlns="http://www.w3.org/2000/svg" width="680">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+  @keyframes glitch-card {
+    0%   { opacity: 0; transform: translateX(-4px); }
+    5%   { opacity: 1; transform: translateX(3px); }
+    8%   { opacity: 0.3; transform: translateX(-2px); }
+    10%  { opacity: 1; transform: translateX(0); }
+    92%  { opacity: 1; transform: translateX(0); }
+    93%  { opacity: 0.4; transform: translateX(2px); }
+    94%  { opacity: 1; transform: translateX(-1px); }
+    95%  { opacity: 0.7; transform: translateX(0); }
+    96%  { opacity: 1; transform: translateX(0); }
+    100% { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes glitch-text {
+    0%,100% { opacity: 1; letter-spacing: 0.2em; }
+    3%  { opacity: 0.2; letter-spacing: 0.4em; }
+    6%  { opacity: 1; letter-spacing: 0.2em; }
+    60% { opacity: 1; letter-spacing: 0.2em; }
+    61% { opacity: 0.5; letter-spacing: 0.3em; }
+    62% { opacity: 1; letter-spacing: 0.2em; }
+  }
+  @keyframes flicker-line {
+    0%,100% { opacity: 1; }
+    4%  { opacity: 0; }
+    5%  { opacity: 1; }
+    55% { opacity: 1; }
+    56% { opacity: 0.3; }
+    57% { opacity: 1; }
+  }
+  @keyframes scanline {
+    0%   { transform: translateY(0px); opacity: 0.06; }
+    100% { transform: translateY(160px); opacity: 0.06; }
+  }
+  @keyframes border-glitch {
+    0%,100% { opacity: 1; }
+    7%  { opacity: 0; }
+    8%  { opacity: 1; }
+    70% { opacity: 1; }
+    71% { opacity: 0.3; }
+    72% { opacity: 1; }
+  }
+  .c1 { animation: glitch-card 6s ease-out infinite 0.00s; }
+  .c2 { animation: glitch-card 6s ease-out infinite 0.15s; }
+  .c3 { animation: glitch-card 6s ease-out infinite 0.30s; }
+  .c4 { animation: glitch-card 6s ease-out infinite 0.45s; }
+  .c5 { animation: glitch-card 6s ease-out infinite 0.60s; }
+  .c6 { animation: glitch-card 6s ease-out infinite 0.75s; }
+  .c7 { animation: glitch-card 6s ease-out infinite 0.90s; }
+  .c8 { animation: glitch-card 6s ease-out infinite 1.05s; }
+  .hdr  { animation: glitch-text 8s ease-out infinite; }
+  .ln   { animation: flicker-line 7s ease-out infinite; }
+  .acc  { animation: border-glitch 6s ease-out infinite; }
+  .scan { animation: scanline 3s linear infinite; }
+</style>
+  <rect width="680" height="138" fill="#0a0c0f" rx="6"/>
+  <rect class="scan" x="0" y="0" width="680" height="28" fill="#2a9d5c"/>
+  <rect class="acc" x="0" y="0" width="2" height="138" fill="#2a9d5c" rx="1"/>
+  <text class="hdr" x="20" y="22" fill="#2a9d5c" font-size="9" font-family="JetBrains Mono, monospace" letter-spacing="0.2em">&gt; STACK // sys.load</text>
+  <line class="ln" x1="160" y1="18" x2="660" y2="18" stroke="#1a2332" stroke-width="1"/>
+  <g class="c1">
+    <rect x="20" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <text x="54" y="66" font-size="26" text-anchor="middle" font-family="JetBrains Mono, monospace" fill="#4a7a9b" font-weight="500">C</text>
+    <text x="54" y="90" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">C</text>
+  </g>
+  <g class="c2">
+    <rect x="96" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <path d="M122 44 Q119 52 124 57 Q129 62 127 70" stroke="#4a7a9b" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M118 74 Q130 78 142 74" stroke="#4a7a9b" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M116 77 L116 84 L144 84 L144 77" stroke="#4a7a9b" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+    <text x="130" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">Java</text>
+  </g>
+  <g class="c3">
+    <rect x="172" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <rect x="188" y="44" width="36" height="36" fill="none" stroke="#4a7a9b" stroke-width="1.2" rx="2"/>
+    <text x="206" y="70" font-size="16" font-family="JetBrains Mono, monospace" fill="#4a7a9b" font-weight="500" text-anchor="middle">JS</text>
+    <text x="206" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">JavaScript</text>
+  </g>
+  <g class="c4">
+    <rect x="248" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <polygon points="282,43 272,73 282,77 292,73" fill="none" stroke="#4a7a9b" stroke-width="1.2" stroke-linejoin="round"/>
+    <line x1="276" y1="57" x2="288" y2="57" stroke="#4a7a9b" stroke-width="1.2"/>
+    <text x="282" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">HTML5</text>
+  </g>
+  <g class="c5">
+    <rect x="324" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <polygon points="358,43 349,71 358,75 367,71" fill="none" stroke="#4a7a9b" stroke-width="1.2" stroke-linejoin="round"/>
+    <line x1="353" y1="55" x2="363" y2="55" stroke="#4a7a9b" stroke-width="1.2"/>
+    <line x1="355" y1="63" x2="361" y2="63" stroke="#4a7a9b" stroke-width="1.2"/>
+    <text x="358" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">CSS3</text>
+  </g>
+  <g class="c6">
+    <rect x="400" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <rect x="412" y="44" width="44" height="28" fill="none" stroke="#4a7a9b" stroke-width="1.2" rx="3" opacity="0.6"/>
+    <text x="418" y="63" font-size="13" font-family="JetBrains Mono, monospace" fill="#4a7a9b">$_</text>
+    <text x="434" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">Bash</text>
+  </g>
+  <g class="c7">
+    <rect x="476" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <circle cx="504" cy="50" r="4" fill="none" stroke="#4a7a9b" stroke-width="1.2"/>
+    <circle cx="504" cy="70" r="4" fill="none" stroke="#4a7a9b" stroke-width="1.2"/>
+    <circle cx="520" cy="60" r="4" fill="none" stroke="#4a7a9b" stroke-width="1.2"/>
+    <line x1="504" y1="54" x2="504" y2="66" stroke="#4a7a9b" stroke-width="1.2"/>
+    <path d="M504 54 Q504 60 516 60" stroke="#4a7a9b" stroke-width="1.2" fill="none"/>
+    <text x="510" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">Git</text>
+  </g>
+  <g class="c8">
+    <rect x="552" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
+    <rect x="564" y="46" width="44" height="28" fill="none" stroke="#4a7a9b" stroke-width="1.2" rx="2"/>
+    <text x="578" y="66" font-size="13" font-family="JetBrains Mono, monospace" fill="#4a7a9b" font-weight="500">MD</text>
+    <text x="586" y="92" fill="#2a4a3a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">Markdown</text>
+  </g>
+  <text x="20" y="125" fill="#1a3a20" font-size="9" font-family="JetBrains Mono, monospace">// 8 modules loaded · status: stable</text>
+</svg>

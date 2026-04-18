@@ -43,4 +43,4 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ![projects](projects.svg)
 
----
+

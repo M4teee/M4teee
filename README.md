@@ -18,7 +18,7 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> stack`
 
-<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/stack.svg" width="680"/>
+![stack](stack.svg)
 
 ---
 
@@ -36,7 +36,7 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> currently learning`
 
-<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/learning.svg" width="680"/>
+![learning](learning.svg)
 
 ---
 

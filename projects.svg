@@ -1,5 +1,5 @@
-<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="300" fill="#0a0c0f" rx="6"/>
+<svg viewBox="0 0 495 300" xmlns="http://www.w3.org/2000/svg" width="495" height="300">
+  <rect width="495" height="300" fill="#0a0c0f" rx="6"/>
   
   <style>
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
@@ -10,20 +10,20 @@
   </style>
 
   <g transform="translate(20, 30)">
-    <rect width="360" height="110" fill="#0d1a10" rx="4" stroke="#1a3a20" stroke-width="1"/>
+    <rect width="455" height="110" fill="#0d1a10" rx="4" stroke="#1a3a20" stroke-width="1"/>
     <circle class="status" cx="15" cy="15" r="3" fill="#2a9d5c"/>
-    <text x="30" y="20" class="label">WEB // main</text>
-    <text x="15" y="50" class="title">pagina-educativa</text>
-    <text x="15" y="75" class="desc">Proyecto final · curso de programación básica</text>
-    <text x="310" y="100" class="label">HTML|CSS|JS</text>
+    <text x="35" y="20" class="label">WEB // main</text>
+    <text x="20" y="55" class="title">pagina-educativa</text>
+    <text x="20" y="80" class="desc">Proyecto final · curso de programación básica</text>
+    <text x="380" y="100" class="label">HTML|CSS|JS</text>
   </g>
 
   <g transform="translate(20, 160)">
-    <rect width="360" height="110" fill="#0a1520" rx="4" stroke="#1a2a3a" stroke-width="1"/>
+    <rect width="455" height="110" fill="#0a1520" rx="4" stroke="#1a2a3a" stroke-width="1"/>
     <circle class="status" cx="15" cy="15" r="3" fill="#1a9dbf"/>
-    <text x="30" y="20" class="label" style="fill:#1a9dbf">TOOL // active</text>
-    <text x="15" y="50" class="title" style="fill:#1a9dbf">plan-unlp</text>
-    <text x="15" y="75" class="desc" style="fill:#0d2a3a">Plan de estudios interactivo · Ing. Computación UNLP</text>
-    <text x="310" y="100" class="label">HTML|CSS|JS</text>
+    <text x="35" y="20" class="label" style="fill:#1a9dbf">TOOL // active</text>
+    <text x="20" y="55" class="title" style="fill:#1a9dbf">plan-unlp</text>
+    <text x="20" y="80" class="desc" style="fill:#0d2a3a">Plan de estudios interactivo · Ing. Computación UNLP</text>
+    <text x="380" y="100" class="label">HTML|CSS|JS</text>
   </g>
 </svg>

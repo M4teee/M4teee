@@ -1,7 +1,7 @@
 <div align="center">
 ~/M4teee $▋
 
-# Mateo Rivas Aramburu
+# Mateo Rivas
 
 `Computer Engineering` · `UNLP` · `Buenos Aires, AR`
 
@@ -52,5 +52,5 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 <br><br>
 
 <p align="center">
-  <img src="footer.svg?v=1" alt="System Footer" width="100%">
+  <img src="footer.svg?v=2" alt="System Footer" width="100%">
 </p>

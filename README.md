@@ -41,8 +41,12 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 ---
 
 
-### `> projects`
+### `> projects & stats`
 
-![projects](projects.svg)
+<p align="center">
+  ![projects](projects.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&bg_color=0a0c0f&title_color=2a9d5c&text_color=4a7a9b&icon_color=2a9d5c&hide_border=true" height="150" />
+</p>
+
 
 

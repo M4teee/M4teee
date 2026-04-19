@@ -34,13 +34,11 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> stats`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=4a7a9b&icon_color=2a9d5c&hide=stars&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4teee&layout=compact&theme=transparent&hide_border=true&title_color=2a9d5c&text_color=4a7a9b&langs_count=5)
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&bg_color=0a0c0f&title_color=2a9d5c&text_color=4a7a9b&icon_color=2a9d5c&hide_border=true" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4teee&layout=compact&bg_color=0a0c0f&title_color=1a9dbf&text_color=4a7a9b&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
 ---
 

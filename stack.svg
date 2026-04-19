@@ -71,10 +71,10 @@
 
   <g class="c2">
     <rect x="96" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
-    <path d="M120 72 Q120 84 130 84 Q140 84 140 72" stroke="#4a7a9b" stroke-width="1.5" fill="none" />
-    <path d="M140 74 Q146 74 146 78 Q146 82 140 82" stroke="#4a7a9b" stroke-width="1.5" fill="none" />
-    <path d="M124 64 Q122 59 124 54 M130 64 Q128 59 130 54 M136 64 Q134 59 136 54" stroke="#4a7a9b" stroke-width="1.2" fill="none" />
-    <text x="130" y="92" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">Java</text>
+    <path d="M118 64 Q118 76 130 76 Q142 76 142 64" stroke="#4a7a9b" stroke-width="1.5" fill="none" />
+    <path d="M142 66 Q148 66 148 70 Q148 74 142 74" stroke="#4a7a9b" stroke-width="1.5" fill="none" />
+    <path d="M124 56 Q122 51 124 46 M130 56 Q128 51 130 46 M136 56 Q134 51 136 46" stroke="#4a7a9b" stroke-width="1.2" fill="none" opacity="0.8"/>
+    <text x="130" y="90" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">Java</text>
   </g>
 
   <g class="c3">
@@ -90,7 +90,6 @@
     <line x1="276" y1="57" x2="288" y2="57" stroke="#4a7a9b" stroke-width="1.2"/>
     <text x="282" y="92" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">HTML5</text>
   </g>
-
   <g class="c5">
     <rect x="324" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
     <polygon points="358,43 349,71 358,75 367,71" fill="none" stroke="#4a7a9b" stroke-width="1.2" stroke-linejoin="round"/>
@@ -98,14 +97,12 @@
     <line x1="355" y1="63" x2="361" y2="63" stroke="#4a7a9b" stroke-width="1.2"/>
     <text x="358" y="92" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">CSS3</text>
   </g>
-
   <g class="c6">
     <rect x="400" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
     <rect x="412" y="44" width="44" height="28" fill="none" stroke="#4a7a9b" stroke-width="1.2" rx="3" opacity="0.6"/>
     <text x="418" y="63" font-size="13" font-family="monospace" fill="#4a7a9b">$_</text>
     <text x="434" y="92" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">Bash</text>
   </g>
-
   <g class="c7">
     <rect x="476" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
     <circle cx="504" cy="50" r="4" fill="none" stroke="#4a7a9b" stroke-width="1.2"/>
@@ -115,7 +112,6 @@
     <path d="M504 54 Q504 60 516 60" stroke="#4a7a9b" stroke-width="1.2" fill="none"/>
     <text x="510" y="92" fill="#2a4a3a" font-size="9" font-family="monospace" text-anchor="middle">Git</text>
   </g>
-
   <g class="c8">
     <rect x="552" y="32" width="68" height="68" fill="#0d1a10" rx="3" stroke="#1a3a20" stroke-width="0.5"/>
     <rect x="564" y="46" width="44" height="28" fill="none" stroke="#4a7a9b" stroke-width="1.2" rx="2"/>
@@ -125,3 +121,4 @@
 
   <text x="20" y="122" fill="#1a3a20" font-size="9" font-family="monospace">// 8 modules loaded · status: stable</text>
 </svg>
+

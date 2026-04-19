@@ -49,4 +49,8 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
   </tr>
 </table>
 
+<br><br>
 
+<p align="center">
+  <img src="footer.svg?v=1" alt="System Footer" width="100%">
+</p>

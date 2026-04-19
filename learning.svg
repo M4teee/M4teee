@@ -116,5 +116,5 @@
     <circle cx="572" cy="72" r="3" fill="#1a9dbf" opacity="0.8"/>
     <text x="564" y="102" fill="#1a4a6a" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle">CI/CD</text>
   </g>
-  <text x="20" y="130" fill="#0d2a3a" font-size="9" font-family="JetBrains Mono, monospace">// 5 paths active · devsecops.roadmap</text>
+  <text x="20" y="110" fill="#0d2a3a" font-size="9" font-family="JetBrains Mono, monospace">// 5 paths active · devsecops.roadmap</text>
 </svg>

@@ -27,7 +27,7 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 ### `> learning`
 
 <p align="center">
-  <img src="learning.svg" alt="Tech Stack and Learning Path" width="100%">
+  <img src="learning.svg?v=2" alt="Tech Stack and Learning Path" width="100%">
 </p>
 
 ---

@@ -41,8 +41,6 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=M4teee&show_icons=true&bg_color=0a0c0f&title_color=2a9d5c&text_color=4a7a9b&icon_color=2a9d5c&hide_border=true" width="100%" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4teee&layout=compact&bg_color=0a0c0f&title_color=1a9dbf&text_color=4a7a9b&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>

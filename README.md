@@ -7,6 +7,10 @@
 
 </div>
 
+<p align="center">
+  <img src="decoration.svg?v=1" alt="Data Architecture Visual" width="100%">
+</p>
+
 ---
 
 ### `> about`

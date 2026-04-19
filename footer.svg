@@ -1,0 +1,40 @@
+<svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" width="800" height="60">
+  <style>
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes slide { from { transform: translateX(-100%); } to { transform: translateX(100%); } }
+    .text-footer { font-family: monospace; font-size: 10px; fill: #4a7a9b; }
+    .bold { font-weight: bold; }
+    .green { fill: #2a9d5c; }
+    .cyan { fill: #1a9dbf; }
+    .cursor { animation: blink 1s infinite; fill: #2a9d5c; }
+    .prog-bg { fill: #1a2332; }
+    .prog-fill { fill: #2a9d5c; animation: slide 3s ease-in-out infinite; }
+  </style>
+
+  <rect width="800" height="60" fill="#0a0c0f" rx="4"/>
+  
+  <line x1="20" y1="10" x2="780" y2="10" stroke="#1a2332" stroke-width="0.5"/>
+
+  <g transform="translate(25, 35)">
+    <text class="text-footer">
+      <tspan class="green bold">M4teee@UNLP</tspan>
+      <tspan class="muted">:~#</tspan>
+      <tspan fill="#8b949e"> status --verbose</tspan>
+    </text>
+    <rect class="cursor" x="182" y="-10" width="6" height="12"/>
+  </g>
+
+  <g transform="translate(450, 25)">
+    <rect x="0" y="0" width="110" height="18" rx="3" fill="#0d1a10" stroke="#1a3a20" stroke-width="0.5"/>
+    <text class="text-footer green" x="55" y="12" text-anchor="middle" style="font-size:8px;">LOC: LA_PLATA_AR</text>
+    
+    <rect x="120" y="0" width="100" height="18" rx="3" fill="#0d1820" stroke="#1a2a3a" stroke-width="0.5"/>
+    <text class="text-footer cyan" x="170" y="12" text-anchor="middle" style="font-size:8px;">STATUS: STABLE</text>
+    
+    <rect x="230" y="0" width="90" height="18" rx="3" fill="#1a2332" stroke="#4a7a9b" stroke-width="0.5" opacity="0.5"/>
+    <text class="text-footer" x="275" y="12" text-anchor="middle" style="font-size:8px; fill:#8b949e;">VER: 2026.04</text>
+  </g>
+
+  <rect x="25" y="50" width="750" height="1" class="prog-bg" rx="0.5"/>
+  <rect x="25" y="50" width="100" height="1" class="prog-fill" rx="0.5"/>
+</svg>

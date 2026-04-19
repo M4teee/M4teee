@@ -18,7 +18,9 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ### `> stack`
 
-<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/stack.svg?sanitize=true" width="680"/>
+<p align="center">
+  <img src="svg-prueba.svg" alt="Tech Stack and Learning Path" width="100%">
+</p>
 
 ---
 
@@ -34,11 +36,6 @@ Foco en software eficiente y escalable — lógica algorítmica, estructuras de 
 
 ---
 
-### `> currently learning`
-
-<img src="https://raw.githubusercontent.com/M4teee/M4teee/main/learning.svg?sanitize=true" width="680"/>
-
----
 
 ### `> projects`
 

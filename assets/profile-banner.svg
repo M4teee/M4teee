@@ -8,7 +8,7 @@
     <circle cx="830" cy="140" r="122"/>
     <path d="M830 0V280M654 140H1006M705 15L955 265M705 265L955 15"/>
     <path d="M830 18A122 122 0 0 1 952 140M708 140A122 122 0 0 1 830 18M830 262A122 122 0 0 1 708 140" stroke="#a1a59f" stroke-width="1.4"/>
-    <path d="M64 218H338M1006 140H1136" stroke="#303430"/>
+    <path d="M1006 140H1136" stroke="#303430"/>
   </g>
 
   <path d="M830 18L952 140H830Z" fill="#202420"/>
@@ -18,6 +18,5 @@
     <text x="72" y="92" font-size="10">MATE RIVAS</text>
     <text x="72" y="151" fill="#f0f0ec" font-size="38" letter-spacing="0">M4TE</text>
     <text x="73" y="174" font-size="10">COMPUTER ENGINEERING</text>
-    <text x="72" y="244" font-size="9">UNLP / ARGENTINA</text>
   </g>
 </svg>

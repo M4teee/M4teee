@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" role="img" aria-labelledby="title desc">
+  <title id="title">Geometric footer</title>
+  <desc id="desc">A faint interrupted rule with a small arc and center mark.</desc>
+  <g fill="none" stroke="#70756f" stroke-width="1" stroke-linecap="square" opacity="0.5">
+    <path d="M64 30H578M622 30H1136"/>
+    <path d="M579 30A21 21 0 0 1 621 30M600 8V14M600 46V52"/>
+  </g>
+  <circle cx="600" cy="30" r="1.5" fill="#858a84" opacity="0.55"/>
+</svg>
